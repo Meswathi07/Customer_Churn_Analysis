@@ -38,9 +38,9 @@ src/                # Python analysis script
 dashboard/          # Tableau dashboard screenshot  
 README.md           # Project documentation  
 
-🚀 Outcome
+🚀 Outcome:
 This project demonstrates how data analysis can uncover meaningful insights to support business decisions and improve customer retention strategies.
 
-👩‍💻 Author
+👩‍💻 Author:
 Swathi GK
 LinkedIn: https://linkedin.com/in/swathi-gk-
