@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 This project analyzes a telecom customer dataset of 7,000+ records to identify churn drivers and revenue risk segments. The goal is to derive actionable insights that help businesses improve customer retention and reduce revenue loss.
 
+## 📊 Dashboard Preview
+![Dashboard](dashboard/dashboard.png)
+
 ## 🎯 Objectives
 - Identify key factors influencing customer churn
 - Analyze high-risk customer segments
