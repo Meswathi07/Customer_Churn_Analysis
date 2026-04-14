@@ -4,6 +4,7 @@
 This project analyzes a telecom customer dataset of 7,000+ records to identify churn drivers and revenue risk segments. The goal is to derive actionable insights that help businesses improve customer retention and reduce revenue loss.
 
 ## 📈 Dashboard
+![Dashboard](dashboard/Dashboard.png)
 👉 [View Interactive Dashboard](https://public.tableau.com/app/profile/swathi.kandaswamy/viz/KPIdrivenrevenuedashboard/Dashboard2)
 
 ## 🎯 Objectives
